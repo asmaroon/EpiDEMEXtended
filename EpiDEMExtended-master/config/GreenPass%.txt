@@ -1,0 +1,12 @@
+;; This class contains the percentage of people with different levels of green pass
+;; These values can be changed to see the different effects the green pass levels can have on the population
+;; especially to see how the virus spreads if people start getting vaccinated
+
+;; % no green pass (value 0)
+42
+
+;; % with green pass base (value 1)
+38
+
+;; % with green pass rafforzato (value 2)
+20
